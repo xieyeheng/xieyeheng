@@ -1,8 +1,2 @@
-- 👋 Hi, I’m @xieyeheng
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning C++
-
-<!---
-xieyeheng/xieyeheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, this is xieyeheng!
+一个来自广州的弱鸡初中生，是个蒟蒻的OIer
